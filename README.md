@@ -1,1 +1,1 @@
-## Bunch of different projects 
+## A bunch of different projects 
