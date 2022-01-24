@@ -1,3 +1,0 @@
-# PET CARER
-> Food dispenser connected through bluetooth to a flutter app. It allows you to register when the food container is empty and feed the pet when you are not at home following alarms settled.
-> It involves a lcd-display, lights, buttons, knobs ...
