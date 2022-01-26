@@ -1,6 +1,5 @@
 ## Sebastian Andres - 25/01/2022
 ## @ssebas.andres ^ gitHub: https://github.com/SebasAndres
-import random
 from tkinter import *
 import webbrowser
 from time import sleep
@@ -8,6 +7,8 @@ import pyautogui
 INSIDE_WND = 10; MAX_URL = 10
 url_videos = list(); GOOGLE_SEARCH = '';
 END_VIDEO = ""
+print ("> Loading textures and scripts..."); sleep(0.2)
+print ("> Launching game:"); sleep(0.2)
 with open('config.txt') as f:
     line0 = f.readline()
     INSIDE_WND = int("".join(list(line0)[15:-1]))
